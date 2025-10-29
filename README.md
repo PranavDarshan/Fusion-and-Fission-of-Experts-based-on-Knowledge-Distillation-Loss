@@ -45,3 +45,7 @@ Here are a few sample visualizations from the training process:
 ## Conclusion
 
 This project serves as a proof-of-concept for the adaptive MoE architecture. The results suggest that while the mechanism for dynamically altering the model is viable, further research is needed to improve the decision-making process for adding/removing experts to achieve competitive performance. The current implementation did not lead to a breakthrough in classification accuracy.
+
+## Model Checkpoint
+
+Model checkpoints are uploaded to hugging face and can be accessed using https://huggingface.co/pranavdarshan/ResNet-MOE.
